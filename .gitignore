@@ -1,0 +1,4 @@
+dm-assistant-backend/.venv/
+dm-assistant-backend/.env
+node_modules/
+.env
